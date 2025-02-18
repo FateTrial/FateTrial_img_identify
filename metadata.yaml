@@ -1,0 +1,9 @@
+name: FateTrial_img_identify
+desc: 智谱AI图片识别插件，支持使用智谱AI的GLM-4V-Flash模型识别图片。
+help: |
+  使用方法：/aiii <图片>
+  示例：
+  /aiii 
+version: v1.0.0
+author: FateTrial
+repo: https://github.com/FateTrial/FateTrial_img_identify
